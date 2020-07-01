@@ -1,0 +1,110 @@
+Current Date: Jan 1, 2013
+ 
+Pick up Date: Jan 23, 2013
+Return Date: Feb 2, 2013 = Days: 0
+Full Name: Tony Strak
+Age: 38
+Location: California
+Contact: 5353533535
+Car: Van-2009
+Total Rent Price: 0.00 
+--------------------------------------------------
+Current Date: Oct 6, 2019
+ 
+Pick up Date: Oct 6, 2019
+Return Date: Oct 7, 2019 = Days: 1
+Full Name: neha pawar
+Age: 49
+Location: shivajinagar
+Contact: 9922239881
+Car: Taxi-2002
+Total Rent Price: 250.00 
+--------------------------------------------------
+Current Date: Oct 9, 2019
+ 
+Pick up Date: Oct 10, 2019
+Return Date: Nov 1, 2019 = Days: 0
+Full Name: rt sh
+Age: 24
+Location: pune
+Contact: 90
+Car: Pick-up-2013
+Total Rent Price: 0.00 
+--------------------------------------------------
+Current Date: Oct 10, 2019
+ 
+Pick up Date: Oct 10, 2019
+Return Date: Oct 12, 2019 = Days: 2
+Full Name: fgh gj
+Age: 28
+Location: PUNE
+Contact: 75823
+Car: Van-2009
+Total Rent Price: 1000.00 
+--------------------------------------------------
+Current Date: Jan 1, 2019
+ 
+Pick up Date: Jan 1, 2019
+Return Date: Jan 7, 2019 = Days: 6
+Full Name: b n
+Age: 34
+Location: pune
+Contact: 45465
+Car: Van-2009
+Total Rent Price: 3000.00 
+--------------------------------------------------
+Current Date: Jan 1, 2019
+ 
+Pick up Date: Jan 1, 2019
+Return Date: Jan 1, 2019 = Days: 0
+Full Name: n p
+Age: 34
+Location: pune
+Contact: 3435
+Car: Pick-up-2013
+Total Rent Price: 0.00 
+--------------------------------------------------
+Current Date: Oct 9, 2019
+ 
+Pick up Date: Jan 1, 2019
+Return Date: Jan 4, 2019 = Days: 3
+Full Name: neha pawar
+Age: 21
+Location: pune hostel
+Contact: 8794651320
+Car: Van-2009
+Total Rent Price: 1500.00 
+--------------------------------------------------
+Current Date: Oct 10, 2019
+ 
+Pick up Date: Oct 10, 2019
+Return Date: Oct 11, 2019 = Days: 1
+Full Name: rt sharma
+Age: 22
+Location: pune
+Contact: 456788
+Car: Bus-2007
+Total Rent Price: 700.00 
+--------------------------------------------------
+Current Date: Jan 1, 2019
+ 
+Pick up Date: Jan 3, 2019
+Return Date: Jan 5, 2019 = Days: 2
+Full Name: RT FGHJFHG
+Age: 20
+Location: FGHHGHDKJ
+Contact: 453678987654
+Car: Taxi-2002
+Total Rent Price: 500.00 
+--------------------------------------------------
+Current Date: Jan 1, 2019
+ 
+Pick up Date: Jan 1, 2019
+Return Date: Jan 3, 2019 = Days: 2
+Full Name: hgd dfgh
+Age: 34
+Location: dfghkkjg
+Contact: 345678998
+Car: Van-2009
+Total Rent Price: 1000.00 
+---------------------------------------------------------------------
